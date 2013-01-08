@@ -12,3 +12,6 @@ Sometimes, this can be challenging. BUt just keep your mind to it and great thin
 5) go to terminal and type git clone (git url)
 6) make changes to the README as you wish
 7) save the README 
+8) type in git add <filename> or .
+9) go into terminal and type in git commit -m "<changes you made>
+10) 
