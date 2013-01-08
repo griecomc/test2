@@ -23,7 +23,7 @@ Sometimes, this can be challenging. BUt just keep your mind to it and great thin
 
 9) go into terminal and type in git commit -m "<changes you made>
 
-10) after you have all you wanted, type in git push <pageurl>
+10) after you have all you wanted, type in git push <pageurl>, or origin master
 
 11) when asked for your user name and PW, enter them accordingly 
 
